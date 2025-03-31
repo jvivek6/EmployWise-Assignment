@@ -21,8 +21,8 @@ Vite	Fast development server & bundler
 
 Setup & Installation
 
-1️⃣ git clone https://github.com/Deepak-172003/employee-management.git
-cd employee-management
+1️⃣ git clone (https://github.com/jvivek6/EmployWise-Assignment.git)
+cd User-management
 
 2️⃣ Install Dependencies (Mandatory Step)
 npm install
@@ -50,5 +50,3 @@ npm run dev
 Once the server starts, open http://localhost:5173 in your browser.
 
 
-Developed by Deepak-172003
-🔗 GitHub: Deepak-172003
